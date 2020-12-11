@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	font-family: "Commissioner", sans-serif;
+	background-color: #F6F4F4;
+	/* -webkit-font-smoothing: antialiased; */
+	/* -moz-osx-font-smoothing: grayscale; */
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+* {
+	color: #3c3744;
+}

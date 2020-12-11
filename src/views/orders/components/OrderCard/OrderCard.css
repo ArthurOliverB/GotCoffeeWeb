@@ -1,0 +1,37 @@
+.card-wrapper {
+	padding: 15px;
+	border-radius: 10px;
+	height: max-content;
+	width: 200px;
+	margin: 8px;
+	background-color: white;
+	border: 1px solid #e7e7e9;
+}
+
+.items-container {
+	border-radius: 10px;
+	background-color: white;
+}
+
+button {
+	height: 40px;
+	width: 100%;
+	margin-top: 24px;
+	border-radius: 4px;
+	background-color: #4fd14d;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+button svg,
+button svg path, 
+button svg polyline,
+button svg line
+{
+	color: white;
+	font-size: 20px;
+}
+
+h2 {
+	margin: 0;
+}

@@ -1,0 +1,24 @@
+p {
+	margin: 0;
+}
+
+.item-wrapper:not(:first-child) {
+	margin-top: 10px;
+	border-top: 1px solid #f0f0f0;
+}
+
+.item-wrapper h2 {
+	margin-bottom: 12px;
+}
+.item-wrapper ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.item-wrapper ul li {
+	color: #635b71;
+	font-weight: 300;
+	font-size: 12px;
+	margin-bottom: 8px;
+	text-transform: uppercase;
+}
